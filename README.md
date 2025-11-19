@@ -99,10 +99,17 @@ A clean and simple task management full-stack app.
 ---
 
 # 🌐 Connect With Me  
+ 
 <p align="left">
-  <a href="https://www.linkedin.com/in/lal-mahmud-330850379?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://skillicons.dev/icons?i=linkedin&theme=light" height="40"/></a>
-  <a href="mailto:lmnosib555@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=light" height="40"/></a>
+  <a href="https://www.linkedin.com/in/lal-mahmud-330850379"><img src="https://skillicons.dev/icons?i=linkedin" title="LinkedIn" height="40"/></a>
+  <a href="mailto:lmnosib555@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" title="Email Me" height="40"/></a>
+  <a href="https://facebook.com/lm.nosib"><img src="https://skillicons.dev/icons?i=facebook" title="Facebook" height="40"/></a>
+  <a href="tel:+8809696560361"><img src="https://img.icons8.com/ios-filled/50/000000/phone.png" title="Phone Number" height="40"/></a>
 </p>
+
+### 📞 Phone  
+**+8809696560361**
+
 
 ---
 
