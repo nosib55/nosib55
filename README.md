@@ -1,18 +1,19 @@
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_URL" alt="Banner" />
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 </p>
 
-<h1 align="center">
-  <span style="font-size:38px; color:#00eaff; text-shadow:0 0 10px #00eaff;">
-    Hi, I'm <b>Lal Mahmud</b> 👋
-  </span>
-</h1>
 
-<h3 align="center">
-  <span style="color:#8af3ff; text-shadow:0 0 8px #00eaff;">
-    MERN Stack Developer
-  </span>
-</h3>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0011ff,100:00eaff&height=180&text=Hi,+I'm+Lal+Mahmud+👋&fontSize=45&fontColor=ffffff&animation=twinkling" />
+</p>
+
+
+
+
+
+
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&pause=1200&color=00E7FF&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Building+Futuristic+Web+Apps;React+%7C+Node+%7C+Express+%7C+MongoDB;Crafting+Next-Gen+Digital+Experiences;Always+Learning+New+Tech" />
@@ -30,8 +31,30 @@ I am a futuristic-minded **MERN Stack Developer** who loves blending creativity 
 ---
 
 ## ⚡ Tech Stack  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,git,github,vscode&theme=light" />
+
+### 🎨 Frontend  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=light" />
+</p>
+
+### 🧱 Backend  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase&theme=light" />
+</p>
+
+### 🔤 Languages  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,python&theme=light" />
+</p>
+
+### 🗄️ Database  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb&theme=light" />
+</p>
+
+### 🛠️ Tools & Others  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=light" />
 </p>
 
 ---
