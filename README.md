@@ -66,26 +66,34 @@ My focus is on learning cutting-edge technologies and building real-world applic
 ---
 
 # 📌 Featured Projects  
-
-### 🚀 **Tourism Website**
-A modern MERN-based tourism web application with attractive UI and dynamic features.  
-🔗 Live: *Add your live link*  
-💻 Code: *Add your repo link*  
-🛠 Tech: React, Node.js, Express, MongoDB
+ 
 
 ---
 
-### 🎧 **Music Player App**  
-A futuristic and modern UI-based music player.  
-🔗 Live: *Add link*  
-🛠 Tech: React + Tailwind
+## 🌿 Green Earth – Eco Awareness Platform
+A modern and eco-friendly platform designed to promote environmental awareness, sustainability, and green living. Includes dynamic sections and educational UI components.
+
+🔗 Live: *Add live link here*  
+💻 Repo: https://github.com/nosib55/green-earth  
+🛠 Tech Used: React, Tailwind CSS, JavaScript  
 
 ---
 
-### 📂 **Task Management App**  
-A clean and simple task management full-stack app.  
-🔗 Live: *Add link*  
-🛠 Tech: MERN Stack
+## 🦸 Hero App – Modern UI Application  
+A clean, stylish, and modern hero-style UI application. Perfect for showcasing services, features, user-focused UI, and responsive layouts.
+
+🔗 Live: *Add live link here*  
+💻 Repo: https://github.com/nosib55/hero-app  
+🛠 Tech Used: React, Tailwind CSS  
+
+---
+
+## ♻️ Eco Track – Sustainability Tracking App (Client)  
+A web app designed to track eco-friendly activities and help users reduce carbon footprint. Includes user dashboard, clean UI, and smooth usability.
+
+🔗 Live: *Add live link here*  
+💻 Repo: https://github.com/nosib55/eco-track-client  
+🛠 Tech Used: React, Firebase, Tailwind, REST API  
 
 ---
 
