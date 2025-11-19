@@ -77,7 +77,7 @@ A modern and eco-friendly platform designed to promote environmental awareness, 
 ## 🦸 Hero App – Modern UI Application  
 A clean, stylish, and modern hero-style UI application. Perfect for showcasing services, features, user-focused UI, and responsive layouts.
 
-🔗 Live: 
+🔗 Live:https://hero-app-dot.netlify.app/
 💻 Repo: https://github.com/nosib55/hero-app  
 🛠 Tech Used: React, Tailwind CSS  
 
@@ -86,7 +86,7 @@ A clean, stylish, and modern hero-style UI application. Perfect for showcasing s
 ## ♻️ Eco Track – Sustainability Tracking App (Client)  
 A web app designed to track eco-friendly activities and help users reduce carbon footprint. Includes user dashboard, clean UI, and smooth usability.
 
-🔗 Live: *Add your live link here*  
+🔗 Live:  
 💻 Repo: https://github.com/nosib55/eco-track-client  
 🛠 Tech Used: React, Firebase, Tailwind, REST API  
 
