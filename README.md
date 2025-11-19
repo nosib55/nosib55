@@ -34,7 +34,6 @@ My focus is on learning cutting-edge technologies and building real-world applic
   <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" height="45"/>
 </p>
 
-
 ### 🧱 Backend  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" height="45"/>
@@ -42,37 +41,34 @@ My focus is on learning cutting-edge technologies and building real-world applic
   <img src="https://skillicons.dev/icons?i=firebase" title="Firebase" height="45"/>
 </p>
 
-
 ### 🔤 Languages  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js" title="JavaScript" height="45"/>
   <img src="https://skillicons.dev/icons?i=python" title="Python" height="45"/>
 </p>
 
-
 ### 🗄️ Database  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" height="45"/>
 </p>
 
-
-
-
 ### 🛠️ Tools & Others  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=light" />
+  <img src="https://skillicons.dev/icons?i=git" title="Git" height="45"/>
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub" height="45"/>
+  <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" height="45"/>
 </p>
 
 ---
 
 # 📌 Featured Projects  
- 
 
 ---
 
-## 🌿 Green Earth – Eco Awareness Platform
+## 🌿 Green Earth – Eco Awareness Platform  
 A modern and eco-friendly platform designed to promote environmental awareness, sustainability, and green living. Includes dynamic sections and educational UI components.
 
+🔗 Live: https://nosib55.github.io/green-earth/  
 💻 Repo: https://github.com/nosib55/green-earth  
 🛠 Tech Used: React, Tailwind CSS, JavaScript  
 
@@ -80,7 +76,8 @@ A modern and eco-friendly platform designed to promote environmental awareness, 
 
 ## 🦸 Hero App – Modern UI Application  
 A clean, stylish, and modern hero-style UI application. Perfect for showcasing services, features, user-focused UI, and responsive layouts.
-  
+
+🔗 Live: 
 💻 Repo: https://github.com/nosib55/hero-app  
 🛠 Tech Used: React, Tailwind CSS  
 
@@ -89,7 +86,7 @@ A clean, stylish, and modern hero-style UI application. Perfect for showcasing s
 ## ♻️ Eco Track – Sustainability Tracking App (Client)  
 A web app designed to track eco-friendly activities and help users reduce carbon footprint. Includes user dashboard, clean UI, and smooth usability.
 
-  
+🔗 Live: *Add your live link here*  
 💻 Repo: https://github.com/nosib55/eco-track-client  
 🛠 Tech Used: React, Firebase, Tailwind, REST API  
 
@@ -105,7 +102,6 @@ A web app designed to track eco-friendly activities and help users reduce carbon
 ---
 
 # 🌐 Connect With Me  
- 
 <p align="left">
   <a href="https://www.linkedin.com/in/lal-mahmud-330850379"><img src="https://skillicons.dev/icons?i=linkedin" title="LinkedIn" height="40"/></a>
   <a href="mailto:lmnosib555@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" title="Email Me" height="40"/></a>
@@ -115,7 +111,6 @@ A web app designed to track eco-friendly activities and help users reduce carbon
 
 ### 📞 Phone  
 **+8809696560361**
-
 
 ---
 
