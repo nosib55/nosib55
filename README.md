@@ -16,7 +16,7 @@
 I am a futuristic-minded **MERN Stack Developer** passionate about creating modern, fast, and scalable digital experiences.  
 My focus is on learning cutting-edge technologies and building real-world applications that make an impact.
 
-- 🔭 **Currently learning:** Next.js, JWT, Stripe  
+- 🔭 **Currently learning:** Next.js, Python,TypeScript  
 - 💡 **Strong areas:** Authentication, REST APIs, Responsive UI  
 - 🎯 **Goal:** Become a world-class full-stack engineer  
 - 🤝 **Love working on:** Real-world MERN projects and modern UIs  
