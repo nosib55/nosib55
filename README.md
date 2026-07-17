@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co.com/N2z5LVqg/Banner.png"/>
+  <img src="[https://i.ibb.co.com/N2z5LVqg/Banner.png](https://i.ibb.co.com/Ld1rX39s/Chat-GPT-Image-Jul-18-2026-12-33-50-AM.png)"/>
 </p>
 
 <p align="center">
