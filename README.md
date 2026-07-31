@@ -60,38 +60,8 @@ My focus is on learning cutting-edge technologies and building real-world applic
   <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" height="45"/>
 </p>
 
----
 
-# 📌 Featured Projects  
 
----
-
-## 🌿 Green Earth – Eco Awareness Platform  
-A modern and eco-friendly platform designed to promote environmental awareness, sustainability, and green living. Includes dynamic sections and educational UI components.
-
-🔗 Live: https://nosib55.github.io/green-earth/  
-💻 Repo: https://github.com/nosib55/green-earth  
-🛠 Tech Used: React, Tailwind CSS, JavaScript  
-
----
-
-## 🦸 Hero App – Modern UI Application  
-A clean, stylish, and modern hero-style UI application. Perfect for showcasing services, features, user-focused UI, and responsive layouts.
-
-🔗 Live:https://hero-app-dot.netlify.app/
-💻 Repo: https://github.com/nosib55/hero-app  
-🛠 Tech Used: React, Tailwind CSS  
-
----
-
-## ♻️ Eco Track – Sustainability Tracking App (Client)  
-A web app designed to track eco-friendly activities and help users reduce carbon footprint. Includes user dashboard, clean UI, and smooth usability.
-
-🔗 Live:https://eco-track-bd.netlify.app/ 
-💻 Repo: https://github.com/nosib55/eco-track-client  
-🛠 Tech Used: React, Firebase, Tailwind, REST API  
-
----
 
 # 🧠 What I Can Do  
 - Build complete MERN stack applications  
