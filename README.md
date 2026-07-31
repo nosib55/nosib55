@@ -45,6 +45,7 @@ My focus is on learning cutting-edge technologies and building real-world applic
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js" title="JavaScript" height="45"/>
   <img src="https://skillicons.dev/icons?i=python" title="Python" height="45"/>
+  <img src="https://skillicons.dev/icons?i=python" title="C" height="45"/>
 </p>
 
 ### 🗄️ Database  
